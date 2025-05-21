@@ -28,8 +28,8 @@ I'm a dedicated and enthusiastic web developer specializing in front-end technol
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catalinienu93&show_icons=true&theme=cobalt" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinienu93&layout=compact&theme=cobalt" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iencatalin&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iencatalin&layout=compact&theme=cobalt" alt="Top Languages" />
 </p>
 
 ---
