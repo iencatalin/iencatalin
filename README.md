@@ -32,6 +32,7 @@ I'm a dedicated and enthusiastic web developer specializing in front-end technol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iencatalin&layout=compact&theme=cobalt" alt="Top Languages" />
 </p>
 
+
 ---
 
 
