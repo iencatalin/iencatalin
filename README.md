@@ -26,16 +26,6 @@ I'm a dedicated and enthusiastic web developer specializing in front-end technol
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iencatalin&show_icons=true&theme=cobalt" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iencatalin&layout=compact&theme=cobalt" alt="Top Languages" />
-</p>
-
-
----
-
-
 ### 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iencatalin)
