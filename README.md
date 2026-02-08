@@ -1,12 +1,6 @@
-# 👋 Hi, I’m [Ienulesc Cătălin]!
+# 👋 Hi, I’m Ienulesc Cătălin!
 
-I'm a dedicated and enthusiastic web developer specializing in front-end technologies like HTML, CSS, SCSS, JavaScript, and React, as well as back-end development with Ruby on Rails. Passionate about creating clean, interactive, and accessible web applications from scratch. 
-
-- 🔭 **Currently working at** [Eventya] as a Web Developer, where I’m gaining hands-on experience with Ruby, Ruby on Rails, PostgreSQL.
-- 🌱 **Currently learning** Node.js and Next.js to expand my full-stack development skills.
-- 💬 **Ask me about** front-end development, React, or anything related to Ruby on Rails!
-- 📫 **How to reach me:** [ienulesccatalin@gmail.com](mailto:ienulesccatalin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iencatalin)
-
+I love building **clean, fast, and interactive web apps** with modern technologies. Constantly learning, experimenting, and leveling up my coding skills. I have **3 years of experience with Ruby on Rails** and now focus on **React, Next.js, and TypeScript**.
 
 ---
 
@@ -15,20 +9,16 @@ I'm a dedicated and enthusiastic web developer specializing in front-end technol
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
 ### 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iencatalin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ienulesccatalin@gmail.com)
-
----
